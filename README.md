@@ -16,7 +16,8 @@ JPA가 제공하는 API를 사용하면 객체를 DB에 저장하고 관리할 �
 4. 스프링의 Thymeleaf란  
 '템플릿 엔진'의 일종. html 태그에 속성을 추가해 페이지에 동적으로 값을 추가하거나 처리할 수 있다.  
 
----------실습--------  
+* * *
+#### 실습  
 [controller]  
  - @GeMappin(), @PostMapping() 안에 /board/write와 같은 url 필요  
  - 매개변수로 받는것을 DB에 저장하기위해 repository,entity 필요   
